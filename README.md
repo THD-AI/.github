@@ -16,4 +16,4 @@ This repository supplies community defaults to repositories that do not define t
 
 Conversations live in [organization Discussions](https://github.com/orgs/THD-AI/discussions), backed by the existing `AIN-Community-Hub-WS23` repository. Its historical URL is retained so old links keep working. The website and its validation, publishing, and submission workflows live in [thd-ai.github.io](https://github.com/THD-AI/thd-ai.github.io).
 
-For membership, collaboration, or a coffee and a useful idea, contact [Alexander](mailto:alex.rudaev@outlook.com). This is an independent space, without university endorsement.
+For membership, collaboration, or a coffee and a useful idea, contact [Alex](mailto:alex.rudaev@outlook.com). This is an independent space, without university endorsement.

@@ -28,7 +28,7 @@ Repaint the real-campus-derived architectural composition in the THD Room Finder
 
 ## Avatar
 
-`assets/thd-ai-avatar.svg` is the editable source for the code-native typographic avatar; `assets/thd-ai-avatar.png` is its GitHub upload companion. It uses deep indigo, pale lavender, and a small warm accent. It is original THD AI community artwork by Alexander Rudaev, shared under CC BY 4.0. It does not use university marks.
+The former typographic logo has been withdrawn from the current files and presentation at Alex’s request. The current open-portal identity is documented in the root brand record.
 
 ## Earlier artwork
 

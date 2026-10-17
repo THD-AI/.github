@@ -9,4 +9,4 @@ THD AI is a place to learn and build with other students. Beginners, different c
 
 Project maintainers moderate their spaces. Organization owners can remove inappropriate content, restrict participation, or remove access when needed. They should explain moderation decisions privately when practical and protect the person reporting a problem.
 
-Report a concern privately to [Alexander Rudaev](mailto:alex.rudaev@outlook.com). Do not include sensitive details in a public issue. If the concern involves Alexander, contact another organization owner through GitHub.
+Report a concern privately to [Alex Rudaev](mailto:alex.rudaev@outlook.com). Do not include sensitive details in a public issue. If the concern involves Alex, contact another organization owner through GitHub.
