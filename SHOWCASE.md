@@ -16,4 +16,4 @@ The submission workflow acknowledges the issue and checks whether the linked rep
 
 Share only work you created or have permission to represent. Keep credentials, private coursework, personal documents, and restricted teaching material out of public submissions. Preserve existing licences and credit every collaborator and source.
 
-Not ready to submit? Bring an idea or work in progress to [Discussions](https://github.com/orgs/THD-AI/discussions/categories/ideas). For membership or a private question, [email Alexander](mailto:alex.rudaev@outlook.com).
+Not ready to submit? Bring an idea or work in progress to [Discussions](https://github.com/orgs/THD-AI/discussions/categories/ideas). For membership or a private question, [email Alex](mailto:alex.rudaev@outlook.com).

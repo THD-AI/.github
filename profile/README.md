@@ -26,7 +26,7 @@ Members can create and lead public or private repositories. Public contributions
 
 ## Good ideas travel well over coffee
 
-For membership, project collaborations, or connecting work happening around THD, email **[Alexander Rudaev](mailto:alex.rudaev@outlook.com)**. He reads it daily, weekends included, and is happy to meet for coffee. A cup of coffee is a very effective opening argument.
+For membership, project collaborations, or connecting work happening around THD, email **[Alex Rudaev](mailto:alex.rudaev@outlook.com)**. He reads it daily, weekends included, and is happy to meet for coffee. A cup of coffee is a very effective opening argument.
 
 ---
 

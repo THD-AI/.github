@@ -37,18 +37,6 @@
   },
   {
     "repository": ".github",
-    "file": "archive/2026-10-17-first-redesign/thd-ai-avatar.png",
-    "sha256": "6663fc7e128742841d9361938a2fa1b1bf772987f75b9daf287190633a219624",
-    "bytes": 7344
-  },
-  {
-    "repository": ".github",
-    "file": "archive/2026-10-17-first-redesign/thd-ai-avatar.svg",
-    "sha256": "fdc860f2609e3ab56ee53d794999452ac4cea5029b75e30a5ba2aef2dd376638",
-    "bytes": 562
-  },
-  {
-    "repository": ".github",
     "file": "archive/2026-10-17-first-redesign/thd-ai-banner.png",
     "sha256": "e5c2728601271828eb4bb3e071b3055ef91eeec256104d8c943dea1b114ff24d",
     "bytes": 2606554

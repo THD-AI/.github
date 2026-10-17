@@ -4,7 +4,7 @@
 
 An open campus, soft light, and room for people to build together. The visual family follows THD Room Finder: lavender haze, dusty blue, peach sunlight, muted sage, and students represented as flat cool-grey silhouettes. It is illustrated campus realism, not pixel art.
 
-Use the open-portal symbol at small sizes. The first typographic avatar is preserved in the versioned archive. Use the campus banner on the organization profile and community home. Keep personal projects' existing one-line drawing artwork and their authorship; community forks are not rebrands of the original author's profile.
+Use the open-portal symbol at small sizes. Use the campus banner on the organization profile and community home. Keep personal projects' existing one-line drawing artwork and their authorship; community forks are not rebrands of the original author's profile.
 
 | Token | Colour | Use |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Repaint the real-campus-derived architectural composition in the THD Room Finder
 
 ## Open-portal symbol
 
-`assets/thd-ai-symbol-v2.png` is the current transparent symbol: an asymmetric open architectural portal with a warm sun at its centre. It suggests room for a person, an idea, and what comes next. Deep indigo, periwinkle, and peach connect it to the campus illustrations. It replaces the boxed initials and is shared under CC BY 4.0. It is independent artwork, without university marks.
+`assets/thd-ai-symbol-v2.png` is the current transparent symbol: an asymmetric open architectural portal with a warm sun at its centre. It suggests room for a person, an idea, and what comes next. Deep indigo, periwinkle, and peach connect it to the campus illustrations. It is shared under CC BY 4.0. It is independent artwork, without university marks.
 
 ## New scene family
 

@@ -19,7 +19,7 @@ Choose a project that interests you, read its setup and contribution instruction
 
 | Project | What it explores | Contribution route |
 | --- | --- | --- |
-| [THD Room Finder](https://github.com/THD-AI/THD-Room-Finder) | Free study rooms using public THabella timetable data; React, TypeScript, PWA, and Android. | Community fork of [Alexander's project](https://github.com/arudaev/THD-Room-Finder). Start with its contribution guide. |
+| [THD Room Finder](https://github.com/THD-AI/THD-Room-Finder) | Free study rooms using public THabella timetable data; React, TypeScript, PWA, and Android. | Community fork of [Alex's project](https://github.com/arudaev/THD-Room-Finder). Start with its contribution guide. |
 | [CheXVision](https://github.com/THD-AI/AIN-B-29-Deep-Learning-and-Big-Data) | Dual-task chest X-ray pathology detection with PyTorch, built as a course project. | Community fork of [the original](https://github.com/arudaev/chexvision). Educational research, not a clinical service. |
 | [CheXVision Mini](https://github.com/THD-AI/AIN-B-29-Deep-Learning-and-Big-Data-NumPy) | A from-scratch NumPy neural network accompanying CheXVision. | Community fork of [the original](https://github.com/arudaev/chexvision-mini). |
 | [Painfully Trivial](https://github.com/THD-AI/AIN-B-21-22-Machine-Learning-and-Computer-Vision) | University ML experiments including a waste sorting assistant and train delay prediction. | Community fork of [the original](https://github.com/arudaev/Painfully-Trivial). |

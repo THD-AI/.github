@@ -7,7 +7,7 @@ Start with a small, useful change. A corrected explanation, reproducible bug rep
 ## Join or bring a project
 
 1. Browse the [project directory](PROJECTS.md) and [Discussions](https://github.com/orgs/THD-AI/discussions).
-2. To join the organization, email [Alexander](mailto:alex.rudaev@outlook.com) with your GitHub handle and what you want to work on. Public contributions do not require membership.
+2. To join the organization, email [Alex](mailto:alex.rudaev@outlook.com) with your GitHub handle and what you want to work on. Public contributions do not require membership.
 3. Members can create public or private repositories. Choose visibility deliberately; private coursework stays private. Give your project a clear README, named maintainers, setup instructions, and an explicit licence for material you own.
 4. Repository creators have admin access to their own repositories. Add collaborators or a project team there; ask an organization owner for help with cross-project access. Organization-wide admin access is not needed to run a project.
 5. Use issues for work and Discussions for questions, ideas, and finding teammates. No proposal ceremony is required for a new experiment.
@@ -37,4 +37,4 @@ Publish your own explanations, examples, and notes. Link to university material 
 
 Repository URLs stay stable. Use a readable README title and short description, topics for discovery, and a status such as experiment, maintained, or archived. Do not describe a prototype as a production service. If work has stopped, say so and explain whether someone can adopt it.
 
-Be welcoming and give people credit. See the [Code of Conduct](CODE_OF_CONDUCT.md). Need help, a membership invitation, or a project handover? [Email Alexander](mailto:alex.rudaev@outlook.com).
+Be welcoming and give people credit. See the [Code of Conduct](CODE_OF_CONDUCT.md). Need help, a membership invitation, or a project handover? [Email Alex](mailto:alex.rudaev@outlook.com).
