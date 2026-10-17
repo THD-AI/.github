@@ -4,6 +4,17 @@ Explore the visual [project showroom](https://thd-ai.github.io/) or [share your 
 
 Choose a project that interests you, read its setup and contribution instructions, and start with a small change. Community forks preserve the original authors and licences. They offer a place to collaborate through THD AI; the upstream repositories remain the original projects.
 
+## Course projects
+
+[Browse the course map](COURSES.md) for the official AIN-B module codes, scheduled semesters, and project sources.
+
+| Semester | Module | Project |
+| --- | --- | --- |
+| 2 | AIN-B-10 · Internet Technologies | [Devablos V2](https://github.com/THD-AI/Devablos-Project-V2) |
+| 3 | AIN-B-16 · Assistance Systems | [Project Apero](https://github.com/THD-AI/Project-Arepo) |
+| 4 | AIN-B-21 · Machine Learning; AIN-B-22 · Computer Vision | [Painfully Trivial](https://github.com/THD-AI/Painfully-Trivial) |
+| 6 | AIN-B-29 · Deep Learning/Big Data | [CheXVision](https://github.com/THD-AI/chexvision), [CheXVision Mini](https://github.com/THD-AI/chexvision-mini) |
+
 ## Campus tools and AI projects
 
 | Project | What it explores | Contribution route |
