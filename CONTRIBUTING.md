@@ -1,5 +1,7 @@
 # Contributing to THD AI
 
+THD AI is an independent showroom and collaboration space for people around THD. Personal work and university projects are welcome, at your own pace. AI-assisted or made without AI, care, quality, and honest credit matter. You can [share a project in the showroom](SHOWCASE.md) without moving its repository or joining the organization.
+
 Start with a small, useful change. A corrected explanation, reproducible bug report, design sketch, translation, or working prototype all count.
 
 ## Join or bring a project

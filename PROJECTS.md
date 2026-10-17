@@ -1,5 +1,7 @@
 # THD AI – project directory
 
+Explore the visual [project showroom](https://thd-ai.github.io/) or [share your own work](SHOWCASE.md). The first projects below get the collection started; they are not the limits of what belongs here.
+
 Choose a project that interests you, read its setup and contribution instructions, and start with a small change. Community forks preserve the original authors and licences. They offer a place to collaborate through THD AI; the upstream repositories remain the original projects.
 
 ## Campus tools and AI projects

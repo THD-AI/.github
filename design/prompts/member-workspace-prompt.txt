@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: finished THD AI member-workspace banner, wide 3:1, 2172 x 724 composition.
+Primary request: create one beautiful new interior scene showing people collaborating on their personal and university AI projects in a welcoming campus maker workspace, overlooking modern THD-style campus buildings and trees.
+Input images: Image 1 hero-day.webp is a reference for soft lighting, interior material treatment and palette. Image 2 batch.webp is a reference for flat anonymous light-grey human silhouettes. Image 3 thd-ai-banner.png is the approved public banner and a visual-family reference only; do not copy its composition or change that file.
+Scene: informal university project workspace with long simple worktables, open laptops, a few coffee mugs, modest plants, large campus-facing windows. Several people work together in a small cluster at the lower-right and center, while another person works quietly nearby. A calm place where ideas are welcome.
+Style: richly atmospheric hand-painted digital illustration; soft luminous lavender haze, cornflower blue and sage with warm afternoon sunlight. Crisp believable architectural forms, delicate painterly foliage and subtle grain; gentle luminous shadows and depth. Not pixel art, not a photo, not 3D.
+People: flat uniform light cool-grey #9AA0A8 silhouettes, absolutely no faces, clothing details, outlines, shading, or internal detail. Their human poses indicate collaboration, not a formal lecture.
+Composition: generous wide 3:1 panorama. Upper-left 45 percent has ample quiet pale lavender wall/window-light negative space for an elegant clear heading; preserve comfortable outer margins. Interior and the worktable scene flow across lower half and right. Campus visible through windows.
+Text (verbatim): "Make room for your ideas."
+Typography: exact single restrained deep-indigo sans-serif heading in open upper-left, refined medium weight, readable but not oversized. No other text anywhere.
+Constraints: same calm evocative visual direction and polished finish as approved THD AI campus banner; this is an independent informal project-sharing space connected to THD, not a student club. No official university logo, no THD AI wordmark, no poster text, no flags, no watermark.
