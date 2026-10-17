@@ -1,41 +1,30 @@
-# TH Deggendorf AI English Major 2023 :mortar_board: :robot:
+![THD AI – a softly lit Deggendorf campus, with students as grey silhouettes](https://raw.githubusercontent.com/THD-AI/.github/main/assets/thd-ai-banner.png)
 
-Welcome to the student-run GitHub organization for the 2023 cohort of English-taught Artificial Intelligence students at TH Deggendorf!
+# THD AI
 
-![DALL·E 2023-10-16 23 53 28 - Oil painting of a modern take on 'The Creation of Adam'  Students in THD hoodies and casual attire on one side reach out with hope and interest  On th](https://github.com/THD-AI-2023/.github/assets/66517969/1420dfd5-b426-4b9e-a27f-a99812c82088)
+**Build something together.**
 
-## About :book:
+Student-led open source at TH Deggendorf. Bring a useful idea, a half-finished experiment, or the curiosity to help someone else's project. Every cohort is welcome, and you do not need to be an AI student to contribute.
 
-This unofficial organization serves as a collaborative platform where students can:
+## Find your way in
 
-- Share and access academic resources, such as lecture notes, assignments, reading materials, and code samples.
-- Experience hands-on with GitHub, learning its essential features and best practices in real-time.
-- Engage in community-driven initiatives and discuss pertinent topics.
+| Start here | What you can do |
+| --- | --- |
+| [Community discussions](https://github.com/orgs/THD-AI/discussions) | Introduce yourself, ask a question, find collaborators, or show what you built. |
+| [Project directory](https://github.com/THD-AI/.github/blob/main/PROJECTS.md) | Explore campus tools, AI experiments, and student projects. |
+| [Studybooks](https://thd-ai.github.io/studybooks/) | Read student-written course revision notes. |
+| [GitHub beginner's guide](https://github.com/THD-AI/GitHub-Guide-for-Beginners) | Make your first branch and pull request. |
 
-## Objectives :dart:
+## Your project belongs here
 
-- **Resource Centralization**: Provide a hub for essential academic resources.
-- **Collaborative Learning**: Encourage students to collaborate, discuss, and support each other.
-- **Industry Readiness**: Acquaint students with tools and practices crucial in the tech world.
-- **Community Building**: Foster a sense of unity, ownership, and belonging amongst students.
+Members can create public and private repositories. Start small: explain the idea, name the people maintaining it, choose a licence for your own work, and leave one approachable task for the next contributor. You can lead your own project without becoming an organization administrator.
 
-## Getting Started :rocket:
+Not a member yet? [Introduce your idea in Discussions](https://github.com/orgs/THD-AI/discussions/categories/ideas) or email Alexander for an invitation. Public repositories also accept contributions through forks and pull requests. See [how we work](https://github.com/THD-AI/.github/blob/main/CONTRIBUTING.md).
 
-1. **GitHub Guide for Beginners**: Before diving in, familiarize yourself with our [Getting Started with GitHub](https://github.com/THD-AI-2023/GitHub-Guide-for-Beginners/blob/main/Getting-Started-with-GitHub.md) guide. The [GitHub Guide for Beginners](https://github.com/THD-AI-2023/GitHub-Guide-for-Beginners) repository also covers essential topics such as:
-   - [Collaborating on Projects](https://github.com/THD-AI-2023/GitHub-Guide-for-Beginners/blob/main/Collaborating-on-Projects.md)
-   - [Understanding Enterprise Workflows](https://github.com/THD-AI-2023/GitHub-Guide-for-Beginners/blob/main/Understanding-Enterprise-Workflows.md)
-   - [Importance of Soft Skills](https://github.com/THD-AI-2023/GitHub-Guide-for-Beginners/blob/main/Importance-of-Soft-Skills.md)
-   
-2. **Participate in Discussions**: Use the [discussions tab](https://github.com/THD-AI-2023/.github/discussions) for broader conversations, networking, and more informal questions.
-   
-3. **Contribute & Collaborate**: Remember to check out the issue templates for **Community Improvement**, **General Question or Concern**, and **Task or Improvement** in each repository to streamline collaboration and discussions.
+## Clubs, collaborators, and coffee
 
-## Community :people_holding_hands:
-
-Each repository has its issue templates, including **Community Improvement**, for you to provide feedback and suggestions. Engage, participate, and let's collectively make the TH Deggendorf AI English Major 2023 experience exceptional for everyone!
-
-## Connect :handshake:
-
-Your feedback and active participation are invaluable. Together, let's make this academic year memorable and productive!
+Have an idea for a student club, a campus tool, or something we could build together? Reach Alexander Rudaev at **[alex.rudaev@outlook.com](mailto:alex.rudaev@outlook.com)**. He reads email daily, weekends included, and is always happy to meet for coffee. A cup of coffee is a very effective opening argument.
 
 ---
+
+An independent student initiative, started by Alexander in 2023. Not an official THD service and not affiliated with or endorsed by the university. [Earlier chapters](https://github.com/THD-AI/.github/tree/main/archive/2023-2024) · [Artwork and credits](https://github.com/THD-AI/.github/blob/main/BRAND.md)

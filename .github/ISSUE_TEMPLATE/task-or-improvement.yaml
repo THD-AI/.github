@@ -1,67 +1,25 @@
-name: Task or Improvement
-description: Use this template for defining a task, an assignment, or suggesting an improvement.
-title: "Task/Improvement: "
-labels: ["task", "pending review"]
-assignees:
-assignees: 
-  - HlexNC
+name: Task or improvement
+description: Define a focused piece of work.
+title: "[Task] "
 body:
-  - type: markdown
-    attributes:
-      value: "Please fill out the following details to help us understand and process your task or improvement suggestion effectively."
   - type: textarea
+    id: field-1
     attributes:
-      label: Task Description
-      description: "Provide a detailed description of the task, assignment, or improvement suggestion. Include assignment numbers if applicable."
-      placeholder: "Example: Math assignment 2"
+      label: Goal
+      description: What should be different when this is done?
     validations:
       required: true
-  - type: input
-    attributes:
-      label: Branch Name
-      description: "Suggested format: context/issueNumber-short-description. Example: assignments/21-math-assignment-2"
-      placeholder: "Enter branch name..."
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: Estimated Time for Completion
-      description: "How long do you think this task will take? If it's a group task, mention the expected time for each member."
-      placeholder: "Enter estimated completion time..."
-    validations:
-      required: true
-  - type: dropdown
-    attributes:
-      label: Stage
-      description: "Select the current stage of this task."
-      options:
-        - Planning
-        - In Progress
-        - Completed
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: Related Course (if applicable)
-      description: "Mention if this task is related to a specific course, like 'Mathematics 1' or 'Introduction to AI'."
-      placeholder: "Enter related course..."
-    validations:
-      required: false
   - type: textarea
+    id: field-2
     attributes:
-      label: Additional Information
-      description: "Provide any additional information or context that might be useful. This could include specific challenges, resources, etc."
-      placeholder: "Any other details..."
+      label: Scope
+      description: Describe the change and relevant context.
     validations:
-      required: false
-  - type: markdown
+      required: true
+  - type: textarea
+    id: field-3
     attributes:
-      value: "## For Community Improvements\nIf this issue is a suggestion to improve the THD-AI-2023 community, please ensure to provide detailed insights on the improvement for better understanding and implementation."
-  - type: checkboxes
-    attributes:
-      label: Community Improvement Tag
-      description: "Check this box if this issue suggests an improvement to the THD-AI-2023 community. It helps in tagging the issue appropriately for visibility."
-      options:
-        - label: "This is a community improvement suggestion."
+      label: Done when
+      description: How can someone verify the result?
     validations:
       required: false
