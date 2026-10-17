@@ -19,6 +19,14 @@ Start with a small, useful change. A corrected explanation, reproducible bug rep
 - Invite review before merging shared work. Never commit credentials or private student data.
 - Preserve project authorship and licence notices. A community fork is a contribution route, not a transfer of credit or ownership. Send generally useful improvements upstream too.
 
+## Contribute through a community fork
+
+Room Finder, CheXVision, CheXVision Mini, and Painfully Trivial have repositories under `THD-AI`. Their issue trackers are enabled, so you can report a problem or coordinate work in the organization.
+
+When opening a pull request, check that **base repository** is `THD-AI/<project>` if you want the community to review it here. GitHub may suggest the original upstream repository for a fork. Members with write access can create a branch in the community repository; outside contributors can fork it into their own account and submit a pull request back to `THD-AI`.
+
+The original repositories remain upstream. Preserve their authorship, licences, and project instructions. Deployment credentials and hosted services are not copied into a fork; running or deploying one may need separate setup by its maintainers.
+
 ## Share learning without copying the course
 
 Publish your own explanations, examples, and notes. Link to university material instead of uploading slides, textbooks, exam papers, or assessment answers without permission. Keep enrolment keys, grades, rosters, and personal information out of public issues and discussions. Follow the course's collaboration and assessment rules.
