@@ -2,29 +2,32 @@
 
 # THD AI
 
-**Build something together.**
+**A place for the work you care about.**
 
-Student-led open source at TH Deggendorf. Bring a useful idea, a half-finished experiment, or the curiosity to help someone else's project. Every cohort is welcome, and you do not need to be an AI student to contribute.
+An independent project showroom for people connected to Deggendorf Institute of Technology. Personal projects, university experiments, and useful things – shared by people who love AI, software, and making something with care.
 
-## Find your way in
+## Explore, share, find your people
 
 | Start here | What you can do |
 | --- | --- |
-| [Community discussions](https://github.com/orgs/THD-AI/discussions) | Introduce yourself, ask a question, find collaborators, or show what you built. |
-| [Project directory](https://github.com/THD-AI/.github/blob/main/PROJECTS.md) | Explore campus tools, AI experiments, and student projects. |
-| [Studybooks](https://thd-ai.github.io/studybooks/) | Read student-written course revision notes. |
-| [GitHub beginner's guide](https://github.com/THD-AI/GitHub-Guide-for-Beginners) | Make your first branch and pull request. |
+| [The showroom](https://thd-ai.github.io/) | Explore projects, follow your curiosity, and get inspired. |
+| [Share your project](https://github.com/THD-AI/thd-ai.github.io/issues/new?template=project-submission.yml) | Put your work on the shelf. Your repository can stay in your own account. |
+| [Find collaborators](https://github.com/orgs/THD-AI/discussions/categories/ideas) | Bring an idea or a work in progress and meet someone who cares about it. |
+| [Show and tell](https://github.com/orgs/THD-AI/discussions/categories/show-and-tell) | Share a result, a lesson, or a thoughtful experiment. |
+| [Earlier chapters](https://thd-ai.github.io/history/) | Explore the preserved visuals and history of this space. |
 
-## Your project belongs here
+## Your pace. Your project.
 
-Members can create public and private repositories. Start small: explain the idea, name the people maintaining it, choose a licence for your own work, and leave one approachable task for the next contributor. You can lead your own project without becoming an organization administrator.
+Choose what you want to make, when you want to work on it, and who you want to work with. There are no required hours or organized activities to keep up with. A small useful experiment belongs here alongside a finished project.
 
-Not a member yet? [Introduce your idea in Discussions](https://github.com/orgs/THD-AI/discussions/categories/ideas) or email Alexander for an invitation. Public repositories also accept contributions through forks and pull requests. See [how we work](https://github.com/THD-AI/.github/blob/main/CONTRIBUTING.md).
+AI-assisted or made without AI, what matters is quality, care, honest credit, and a clear way for someone else to understand or try the work. [How to share a project](https://github.com/THD-AI/.github/blob/main/SHOWCASE.md).
 
-## Clubs, collaborators, and coffee
+Members can create and lead public or private repositories. Public contributions and showroom submissions do not require membership. Keep your own branding, authorship, and licence; the organization is another place to collaborate. [How we work](https://github.com/THD-AI/.github/blob/main/CONTRIBUTING.md) · [New to GitHub?](https://github.com/THD-AI/GitHub-Guide-for-Beginners)
 
-Have an idea for a student club, a campus tool, or something we could build together? Reach Alexander Rudaev at **[alex.rudaev@outlook.com](mailto:alex.rudaev@outlook.com)**. He reads email daily, weekends included, and is always happy to meet for coffee. A cup of coffee is a very effective opening argument.
+## Good ideas travel well over coffee
+
+For membership, project collaborations, or connecting work happening around THD, email **[Alexander Rudaev](mailto:alex.rudaev@outlook.com)**. He reads it daily, weekends included, and is happy to meet for coffee. A cup of coffee is a very effective opening argument.
 
 ---
 
-An independent student initiative, started by Alexander in 2023. Not an official THD service and not affiliated with or endorsed by the university. [Earlier chapters](https://github.com/THD-AI/.github/tree/main/archive/2023-2024) · [Artwork and credits](https://github.com/THD-AI/.github/blob/main/BRAND.md)
+Started in 2023. Independent of THD; no university endorsement. Every project keeps its creators and licence. [Artwork and credits](https://github.com/THD-AI/.github/blob/main/BRAND.md) · [Visual archive](https://github.com/THD-AI/.github/tree/main/archive)

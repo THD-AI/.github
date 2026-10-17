@@ -1,0 +1,56 @@
+[
+  {
+    "repository": ".github",
+    "file": "archive/2023-2024/assets/community-hub.png",
+    "sha256": "f79df20726f59c3483fb1a166fa2999589afc6358b1d8696bcff858ce749d2a1",
+    "bytes": 2090845
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2023-2024/assets/organization-avatar.png",
+    "sha256": "4fc211010e00fa31898ef74cc5074f612196be8da87eaa56f6867a39152b57c5",
+    "bytes": 216637
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2023-2024/assets/public-profile.png",
+    "sha256": "18a4678ec220c732acf404fdf13655b9aa08a758a8d005c620a20833a376b364",
+    "bytes": 3099449
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2023-2024/assets/schedule-2024.jpg",
+    "sha256": "bf8b05cc67ec4ccd5dd116b0f7af4c40574941ebe95f477dbdb4077692120bf7",
+    "bytes": 635456
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2023-2024/assets/schedule-release-2024.jpg",
+    "sha256": "bf8b05cc67ec4ccd5dd116b0f7af4c40574941ebe95f477dbdb4077692120bf7",
+    "bytes": 635456
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2023-2024/random_iceberg.png",
+    "sha256": "208b843790368326e3c8f1582af9af0563a16e97fcfd5e14a4818443c367bd75",
+    "bytes": 2882529
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-10-17-first-redesign/thd-ai-avatar.png",
+    "sha256": "6663fc7e128742841d9361938a2fa1b1bf772987f75b9daf287190633a219624",
+    "bytes": 7344
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-10-17-first-redesign/thd-ai-avatar.svg",
+    "sha256": "fdc860f2609e3ab56ee53d794999452ac4cea5029b75e30a5ba2aef2dd376638",
+    "bytes": 562
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-10-17-first-redesign/thd-ai-banner.png",
+    "sha256": "e5c2728601271828eb4bb3e071b3055ef91eeec256104d8c943dea1b114ff24d",
+    "bytes": 2606554
+  }
+]
