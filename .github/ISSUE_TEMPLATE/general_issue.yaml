@@ -1,37 +1,25 @@
-name: General Question or Concern
-description: Have a general question or concern? Use this template to get help.
-title: "[QUESTION]"
-labels: ["question"]
-assignees: 
-  - HlexNC
+name: Bug or problem
+description: Report a reproducible problem in this repository.
+title: "[Bug] "
 body:
-  - type: markdown
-    attributes:
-      value: "If you have a general question or concern regarding the THD-AI-2023 community, please use the form below to provide details. We're here to help!"
   - type: textarea
+    id: field-1
     attributes:
-      label: Description
-      description: "Please provide a clear and concise description of your question or concern."
-      placeholder: "Describe your question or concern..."
+      label: What happened?
+      description: Describe the problem and what you expected.
     validations:
       required: true
   - type: textarea
+    id: field-2
     attributes:
-      label: Additional Context
-      description: "Provide any other context or background information that could help us understand your question or concern better. This could be about a course, an assignment, or any aspect of the THD-AI-2023 community."
+      label: Reproduce it
+      description: Give the steps, environment, and any useful error message.
     validations:
-      required: false
-  - type: input
-    attributes:
-      label: Tags
-      description: "Optionally, add tags to help categorize your question (e.g., 'assignment', 'technical issue', 'course content'). Separate tags with commas."
-      placeholder: "e.g., assignment, technical issue"
-    validations:
-      required: false
+      required: true
   - type: textarea
+    id: field-3
     attributes:
-      label: Previous Efforts
-      description: "If you've attempted to find an answer to your question or solve your concern before submitting this issue, please let us know what you've tried. This helps avoid redundancy and can lead to a quicker resolution."
-      placeholder: "Describe any previous efforts..."
+      label: Additional context
+      description: Add screenshots or relevant details. Remove private information first.
     validations:
       required: false

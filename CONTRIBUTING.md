@@ -1,52 +1,30 @@
-# Global Contributing Guidelines for TH Deggendorf AI Major 2023
+# Contributing to THD AI
 
-Thank you for your interest in contributing to the TH Deggendorf AI Major 2023 repositories! Your participation helps create a collaborative and inclusive educational experience. 
+Start with a small, useful change. A corrected explanation, reproducible bug report, design sketch, translation, or working prototype all count.
 
-Before you contribute, please take a moment to read these guidelines to ensure consistency and quality across our repositories.
+## Join or bring a project
 
-## Contribution Process:
+1. Browse the [project directory](PROJECTS.md) and [Discussions](https://github.com/orgs/THD-AI/discussions).
+2. To join the organization, email [Alexander](mailto:alex.rudaev@outlook.com) with your GitHub handle and what you want to work on. Public contributions do not require membership.
+3. Members can create public or private repositories. Choose visibility deliberately; private coursework stays private. Give your project a clear README, named maintainers, setup instructions, and an explicit licence for material you own.
+4. Repository creators have admin access to their own repositories. Add collaborators or a project team there; ask an organization owner for help with cross-project access. Organization-wide admin access is not needed to run a project.
+5. Use issues for work and Discussions for questions, ideas, and finding teammates. No proposal ceremony is required for a new experiment.
 
-1. **Discuss Before Making Changes**: If you want to contribute something major, or if you're unsure about it, please open an issue to discuss your ideas or changes before proceeding.
-   
-2. **Fork & Clone**: If you're ready to contribute, start by forking the desired repository, then clone it to your machine.
+## Make a contribution
 
-3. **Create a Branch**: Always create a new branch for your changes. This keeps the main branch clean and readily deployable.
+- Read the project's README and contribution instructions first.
+- For a small fix, open a pull request directly. For a large change, describe the idea in an issue before investing time.
+- Members can use a project branch if they have write access; everyone can work from a fork.
+- Keep a pull request focused. Explain the result, how you checked it, and any limitations.
+- Invite review before merging shared work. Never commit credentials or private student data.
+- Preserve project authorship and licence notices. A community fork is a contribution route, not a transfer of credit or ownership. Send generally useful improvements upstream too.
 
-4. **Follow Our Folder Structure**: Depending on the repository, we typically use:
-   - `Lecture Notes/`: For notes from lectures.
-   - `Assignments/`: For assignments and related materials.
-   - `Reading Materials/`: For recommended reading materials.
-   - `Code Samples/`: For sample code from class or tutorials.
+## Share learning without copying the course
 
-5. **Commit and Push**: Commit your changes with a meaningful commit message. Push your changes to your fork.
+Publish your own explanations, examples, and notes. Link to university material instead of uploading slides, textbooks, exam papers, or assessment answers without permission. Keep enrolment keys, grades, rosters, and personal information out of public issues and discussions. Follow the course's collaboration and assessment rules.
 
-6. **Pull Request**: Create a pull request to the original repository. Please provide a clear description of your changes.
+## Keep projects understandable
 
-7. **Code of Conduct**: Always adhere to our [Code of Conduct](#code-of-conduct) when making contributions or interacting with the community.
+Repository URLs stay stable. Use a readable README title and short description, topics for discovery, and a status such as experiment, maintained, or archived. Do not describe a prototype as a production service. If work has stopped, say so and explain whether someone can adopt it.
 
-## Code of Conduct
-
-### Our Pledge
-
-We are committed to creating a welcoming and inclusive environment for everyone. Respect and collaboration are core tenets of our community.
-
-### Standards:
-
-- **Be Respectful**: Appreciate differing viewpoints and avoid derogatory comments.
-- **Stay Professional**: Avoid behavior inappropriate for an educational setting, such as using sexualized language or unwelcome advances.
-- **Protect Privacy**: Don't share personal information without permission.
-- **Uphold Integrity**: Ensure your contributions are your own and respect copyright.
-
-### Responsibilities:
-
-Maintainers of this project will enforce the Code of Conduct and take necessary action for any unacceptable behavior.
-
-### Reporting:
-
-If you experience or witness unacceptable behavior, please report it by contacting the organizational heads.
-
-## Questions?
-
-If you have questions about this process, feel free to raise an issue or contact the organizational leaders.
-
-Thank you for being a part of the TH Deggendorf AI Major 2023 community!
+Be welcoming and give people credit. See the [Code of Conduct](CODE_OF_CONDUCT.md). Need help, a membership invitation, or a project handover? [Email Alexander](mailto:alex.rudaev@outlook.com).
