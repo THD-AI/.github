@@ -40,5 +40,53 @@
     "file": "archive/2026-10-17-first-redesign/thd-ai-banner.png",
     "sha256": "e5c2728601271828eb4bb3e071b3055ef91eeec256104d8c943dea1b114ff24d",
     "bytes": 2606554
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-01-innovation.png",
+    "sha256": "53905ca18c87fd2a1a6a6d6fc4ee2a62f3f04d1be9a1c317bba2fddbd1e67296",
+    "bytes": 2213598
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-01-osn.png",
+    "sha256": "2a027a918740fb508e7d415bab7079200bc317451961de085e2fb12214cfeac9",
+    "bytes": 2338050
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-01-quantum.png",
+    "sha256": "e30da49b3038f4577f0654545259c4233ef1580d0b82809287039aa31c49d18b",
+    "bytes": 2568427
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-01-university.png",
+    "sha256": "b15352b470a5f3274e1a9c14470d3d550cfff254d8fe79daa545c0e9e65e7cf1",
+    "bytes": 2496754
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-02-innovation.png",
+    "sha256": "30d2d6b3fec55f12f41e38eb3a79d68a92a55962fd4328cb66124471e3a33b2b",
+    "bytes": 2963970
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-02-osn.png",
+    "sha256": "d6f6075998e1ad5c7caaff321dde3b1200312f0670879ed2fd53e2cd8e580ed7",
+    "bytes": 2961017
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-02-quantum.png",
+    "sha256": "de0af8ebfdb3ed88321d8f18f5617a42ee738965e6ea3d95707fb1e5ca4b380a",
+    "bytes": 3069104
+  },
+  {
+    "repository": ".github",
+    "file": "archive/2026-11-notebook-banners/2026-11-02-university.png",
+    "sha256": "29d8609aadbcc6ebf48affb15cd326de4003af93f7292b56eb1a7a52ae59e49c",
+    "bytes": 2866115
   }
 ]
